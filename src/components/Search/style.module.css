@@ -1,0 +1,26 @@
+.search {
+  width: 300px;
+  height: 40px;
+  display: flex;
+  flex-direction: row-reverse;
+  border: 1px solid black;
+  border-radius: 25px;
+  padding: 0 20px;
+  padding-left: 5px;
+}
+
+.search:active {
+  border: 2px solid red;
+}
+
+.search input {
+  overflow: hidden;
+  outline: none;
+  border: none;
+  width: 100%;
+  font-size: larger;
+}
+.svg {
+  width: 40px;
+  height: 40px;
+}

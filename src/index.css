@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  background-color: yellow;
+  width: 10rem;
+  height: 10rem;
+  color: white;
+}
+
+h1 {
+  font-size: 4rem;
+}

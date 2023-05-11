@@ -1,0 +1,12 @@
+.accordion {
+  width: 20rem;
+  background-color: aqua;
+  border: 2px solid black;
+}
+.accordion > h2 {
+  border-bottom: 2px solid red;
+}
+.accordion > p {
+  background-color: aquamarine;
+  color: rgba(0, 0, 0, 0.8);
+}
