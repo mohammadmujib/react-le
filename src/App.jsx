@@ -12,7 +12,7 @@ import HomePage from "./pages/HomePage";
 // array of object
 
 function App() {
-  const [isHome, setIsHome] = useState(false);
+  const [isHome, setIsHome] = useState(true);
 
   return (
     <div>
